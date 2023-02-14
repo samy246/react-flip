@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-image: url('https://bakery.jagota.com/wp-content/uploads/2021/01/Home_BG_follow.jpg?id=11587') 
+}
+
+.demoPage{
+    height: 35vh;
+    width: 25vw;
+}
+
+img {
+  height: 100%;
+  width: 100%
+}
+
+.passport{
+ height: 100%;
+ width: 100%
+}
+
+h1{
+  color: white;
+}
+#flippage{
+ display: flex;
+ justify-content: center;
+}
+

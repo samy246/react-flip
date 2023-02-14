@@ -1,0 +1,26 @@
+.fpages {
+    height: 276px;
+    width: 256px;
+}
+
+.fpage {
+    height: 100%;
+    width: 100%;
+    user-select: none;
+    touch-action: none;
+}
+
+.fpage1 {
+    background-color: pink;
+}
+
+.fpage2 {
+    background-color: yellow;
+}
+button{
+    margin-top: auto;
+}
+
+.fpage3 {
+    background-color: aqua;
+}
