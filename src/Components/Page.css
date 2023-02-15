@@ -1,7 +1,11 @@
 .App {
   font-family: sans-serif;
   text-align: center;
-  background-image: url('https://bakery.jagota.com/wp-content/uploads/2021/01/Home_BG_follow.jpg?id=11587') 
+  background-image: url('https://bakery.jagota.com/wp-content/uploads/2021/01/Home_BG_follow.jpg?id=11587') ;
+  background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    height: 100vh;
 }
 
 .demoPage{
@@ -9,16 +13,20 @@
     width: 25vw;
 }
 
-img {
+/* img {
   height: 100%;
   width: 100%
-}
+} */
 
 .passport{
  height: 100%;
  width: 100%
 }
-
+.App > div{
+  display: flex;
+  justify-content: center;
+  margin: 10% 0px;
+}
 h1{
   color: white;
 }

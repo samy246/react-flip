@@ -10,8 +10,8 @@ function App() {
       {/* reat-pageflip */}
    <Page/>
    {/* flipping-pages */}
-   <hr></hr>
-<FlippingPages/>
+   {/* <hr></hr> */}
+{/* <FlippingPages/> */}
     </div>
   );
 }
