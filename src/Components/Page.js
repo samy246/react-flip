@@ -22,7 +22,7 @@ pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/$
 const width = 400;
 const height = 550;
 
-// const [arr,setArr]=useState(null)
+
 
 const Pdf = React.forwardRef(({ pageNumber }, ref) => {
   
